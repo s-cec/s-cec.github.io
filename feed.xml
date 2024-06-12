@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2023-04-25T15:44:18+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Affiliates</title><author><name>Sal</name></author><entry><title type="html">Landscape in Scotland</title><link href="http://localhost:4000/mission-1/" rel="alternate" type="text/html" title="Landscape in Scotland" /><published>2023-04-08T00:00:00+00:00</published><updated>2023-04-08T00:00:00+00:00</updated><id>http://localhost:4000/mission-1</id><content type="html" xml:base="http://localhost:4000/mission-1/"><![CDATA[<p>Information here in terms of the landscape in Scotland.</p>
+
+<ul>
+  <li>Kate - sign language - no signs for computing concepts - created and tested signs</li>
+</ul>]]></content><author><name>SCEC</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[Information here in terms of the landscape in Scotland.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Programmes of Work</title><link href="http://localhost:4000/mission-2/" rel="alternate" type="text/html" title="Programmes of Work" /><published>2023-04-07T00:00:00+00:00</published><updated>2023-04-07T00:00:00+00:00</updated><id>http://localhost:4000/mission-2</id><content type="html" xml:base="http://localhost:4000/mission-2/"><![CDATA[<p>Programmes of Work</p>
+
+<ul>
+  <li>
+    <p>survey with young people</p>
+  </li>
+  <li>
+    <p>kate’s</p>
+  </li>
+  <li>
+    <p>national computing centre -</p>
+  </li>
+  <li>
+    <p>teach computing</p>
+  </li>
+</ul>]]></content><author><name>Sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[Programmes of Work]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/3.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Educator Development</title><link href="http://localhost:4000/mission-3/" rel="alternate" type="text/html" title="Educator Development" /><published>2023-04-06T00:00:00+00:00</published><updated>2023-04-06T00:00:00+00:00</updated><id>http://localhost:4000/mission-3</id><content type="html" xml:base="http://localhost:4000/mission-3/"><![CDATA[<ul>
+  <li>provide CERC - under provision -</li>
+</ul>
+
+<p>There are lots of powerful things you can do with the Markdown editor</p>
+
+<p>If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</p>
+
+<p>As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.</p>
+
+<h2 id="special-formatting">Special formatting</h2>
+
+<p>As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:</p>
+
+<ul>
+  <li><del>strike through</del></li>
+  <li>==highlight==</li>
+  <li>*escaped characters*</li>
+</ul>
+
+<h2 id="writing-code-blocks">Writing code blocks</h2>
+
+<p>There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, <code>like this</code>. Larger snippets of code can be displayed across multiple lines using triple back ticks:</p>
+
+<pre><code>.my-link {
+    text-decoration: underline;
+}
+</code></pre>
+
+<p>If you want to get really fancy, you can even add syntax highlighting using Rouge.</p>
+
+<p><img src="/assets/images/3.jpg" alt="walking" /></p>
+
+<h2 id="reference-lists">Reference lists</h2>
+
+<p>The quick brown jumped over the lazy.</p>
+
+<p>Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.</p>
+
+<h2 id="full-html">Full HTML</h2>
+
+<p>Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:</p>
+
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></p>]]></content><author><name>Sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[provide CERC - under provision -]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/4.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Connecting Educators</title><link href="http://localhost:4000/mission-4/" rel="alternate" type="text/html" title="Connecting Educators" /><published>2023-04-05T00:00:00+00:00</published><updated>2023-04-05T00:00:00+00:00</updated><id>http://localhost:4000/mission-4</id><content type="html" xml:base="http://localhost:4000/mission-4/"><![CDATA[<ul>
+  <li>
+    <p>regularly committee meetings, committee members</p>
+  </li>
+  <li>
+    <p>BCS events</p>
+  </li>
+</ul>]]></content><author><name>john</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[regularly committee meetings, committee members]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/6.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/6.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Evidence-backed</title><link href="http://localhost:4000/mission-5/" rel="alternate" type="text/html" title="Evidence-backed" /><published>2023-04-04T00:00:00+00:00</published><updated>2023-04-04T00:00:00+00:00</updated><id>http://localhost:4000/mission-5</id><content type="html" xml:base="http://localhost:4000/mission-5/"><![CDATA[<p>Dagstuhl topic - informed research -</p>
+
+<p>policy changes - voices on the</p>
+
+<p>teachers on the ground doing SCEC - brendan work - network teachers</p>]]></content><author><name>sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[Dagstuhl topic - informed research -]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/5.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Inform Policy</title><link href="http://localhost:4000/mission-6/" rel="alternate" type="text/html" title="Inform Policy" /><published>2023-04-03T00:00:00+00:00</published><updated>2023-04-03T00:00:00+00:00</updated><id>http://localhost:4000/mission-6</id><content type="html" xml:base="http://localhost:4000/mission-6/"><![CDATA[<p>Policy</p>
+
+<ul>
+  <li>
+    <p>Computing within the country, parliament - occasionally meet with the government - responding consultations</p>
+  </li>
+  <li>
+    <p>RSE / LSG</p>
+  </li>
+</ul>]]></content><author><name>sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[Policy]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/2.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Advocacy</title><link href="http://localhost:4000/mission-7/" rel="alternate" type="text/html" title="Advocacy" /><published>2023-04-02T00:00:00+00:00</published><updated>2023-04-02T00:00:00+00:00</updated><id>http://localhost:4000/mission-7</id><content type="html" xml:base="http://localhost:4000/mission-7/"><![CDATA[<p>Advocacy</p>
+
+<ul>
+  <li>
+    <p>Computing within the country, parliament - occasionally meet with the government - responding consultations</p>
+  </li>
+  <li>
+    <p>survey with young people</p>
+  </li>
+</ul>]]></content><author><name>sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[Advocacy]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/2.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Collaborators</title><link href="http://localhost:4000/mission-8/" rel="alternate" type="text/html" title="Collaborators" /><published>2023-04-01T00:00:00+00:00</published><updated>2023-04-01T00:00:00+00:00</updated><id>http://localhost:4000/mission-8</id><content type="html" xml:base="http://localhost:4000/mission-8/"><![CDATA[<ul>
+  <li>BCS Academy overall. Alistair</li>
+  <li>Northern Ireland one. Alistair</li>
+  <li>School Curriculum and Assessment Committee  (England only) narrow,</li>
+  <li>Welsh one not formed yet. Tom Crick.</li>
+</ul>
+
+<p>Report we BCS Academy
+Example:
+NI Board have surveyed classroom - inspired what we had done in Scotland. Setting up</p>
+
+<p>Ireland - Dublin contact</p>
+
+<p>America -</p>]]></content><author><name>sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[BCS Academy overall. Alistair Northern Ireland one. Alistair School Curriculum and Assessment Committee (England only) narrow, Welsh one not formed yet. Tom Crick.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/2.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
